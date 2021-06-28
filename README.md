@@ -1,1 +1,1 @@
-PostmanEcho
+PostmanEcho [![Build status](https://ci.appveyor.com/api/projects/status/yghub9sfa6okya9h?svg=true)](https://ci.appveyor.com/project/Elena-63/postmanecho)
